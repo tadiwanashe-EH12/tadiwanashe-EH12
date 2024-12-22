@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tadiwanashe-EH12
-- 👀 I’m interested in coding and cyber security 
+- 👀 I’m interested in programming and cyber security 
 - 🌱 I’m currently learning Javascript and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tadiwanashe1207@gmail.com..
