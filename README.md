@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @tadiwanashe-EH12
+- 👋 Hi, I’m Tadiwanashe Maruza
 - 👀 I’m interested in programming and cyber security 
-- 🌱 I’m currently learning Javascript and Python.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java and Web Technologies (HTML, CSS, JavaScript and PHP.
+- 💞️ I’m looking to collaborate on Website, Apllications and Systems development.
 - 📫 How to reach me tadiwanashe1207@gmail.com..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 tadiwanashe-EH12/tadiwanashe-EH12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
