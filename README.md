@@ -21,8 +21,6 @@ Backend
 Node.js, MongoDB, SQL (Learning)
 AI and ML	(Basic Concepts)
 
-Tools
-Git, VS Code
 
 
 
