@@ -7,7 +7,7 @@ Aspiring Full Stack Developer & Problem Solver | IT Student.
 
 Pursuing my 3rd year in IT with a passion for web development, software engineering, ML and AI.
 
-Learning by building projects to solve real-world problems through innovation.
+Learning by building projects to solve real-world problems innovatively.
 
 Actively seeking an internship to grow my skills.
 
@@ -15,10 +15,13 @@ Actively seeking an internship to grow my skills.
 🛠 Skills
 
 Frontend	
-HTML, CSS, JavaScript, React (Beginner)
+HTML, CSS, JavaScript (Beginner)
 
 Backend
 Node.js, MongoDB, SQL (Learning)
+
+RESTful APIs (Learning)
+
 AI and ML	(Basic Concepts)
 
 
@@ -34,7 +37,7 @@ Studying algorithms & system design basics.
 Also learning about Java
 
 AI:
-Researching about ML models.
+Researching on ML models.
 
 
 
